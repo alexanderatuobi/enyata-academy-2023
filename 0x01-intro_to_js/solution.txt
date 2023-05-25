@@ -1,0 +1,35 @@
+1.  let is used when you need to reassign a variable,
+    and const when you want to declare constants or variables 
+    that should not be reassigned.
+
+    The main difference between the two is: let variables 
+    can be reassigned, while const variables are read-only 
+    and cannot be reassigned once they are defined.
+
+2.  After we have defined a variable, we use it by 
+    referencing its name in the subsequent code. 
+
+3.  You can declare a string by enclosing a sequence of 
+    characters within single quotes (' '), double quotes (" "), 
+    or backticks (` `). Depending on weahter the string should
+    be changed or shoud remain constant, we can declare a string 
+    using 'let' or 'const', or sometimes 'var'.
+
+4.  Yes we can. You can create strings using either single quotes 
+    (' ') or double quotes (" "). Both single and double quotes 
+    can be used interchangeably to define string literals.
+
+5.  "9" is of type string while 9 is of type number.
+
+6.  Declaration: It refers to the act of introducing a new variable 
+    and specifying its name.
+
+    Redeclaration: Redeclaration occurs when you attempt to declare 
+    a variable with a name that is already defined within the same 
+    scope.
+
+    Assignment: Assignment involves giving a value to a variable for 
+    the first time. It initializes the variable with a specific value.
+
+    Reassignment: Reassignment occurs when you assign a new value to 
+    an existing variable. 
